@@ -10,5 +10,4 @@ then
 else 
         wget -q -O /opt/saymon-scripts/jq https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux32
 fi
-mkdir /opt/saymon-scripts/
 chmod 777 /opt/saymon-scripts/jq
